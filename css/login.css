@@ -1,0 +1,9 @@
+#login-container form button {
+  border-radius: 3px;
+  background: transparent;
+}
+
+#login-container form input,
+#login-container form button {
+  font-size: 250%;
+}

@@ -1,0 +1,14 @@
+.todo {
+  background: rgba(0, 0, 0, 0.2);
+  border: none;
+  cursor: pointer;
+  backdrop-filter: blur(13.5px);
+  border-radius: 25px;
+  -webkit-backdrop-filter: blur(13.5px);
+}
+
+.lists {
+  text-align: start;
+  margin-left: 12%;
+  flex-flow: column wrap;
+}
